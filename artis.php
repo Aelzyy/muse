@@ -21,11 +21,31 @@
             <li><a href="#">Login</a></li>
         </ul>
     </div>  
-    <br>
+    <div class="kls">
+        <h1>Artis Jazz</h1>
+        <a href="#" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Artist</a>
+        <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
+    </div>
 
-    <div class="lk"><h1><a href="#">Punk Music</a></h1></div>   
-    <div class="no">
-
+    <div class="gambar">
+        <a href="#"><img src="image.png" alt=""></a>
+        <h3>Raisa</h3>
+        <h4>Biodata raisa omasgasfasfasgasgasgagas
+            asdas
+        </h4>
+    </div>
+    <div class="gambar2">
+        <a href="#"><img src="image2.png" alt=""></a>
+        <h3>Raisa</h3>
+        <h4>Biodata raisa omasgasfasfasgasgasgagas
+            asdas
+        </h4>
+    </div>
+    <div class="gambar3"><a href="#"><img src="image3.png" alt=""></a>
+        <h3>Raisa</h3>
+        <h4>Biodata raisa omasgasfasfasgasgasgagas
+            asdas
+        </h4>
     </div>
 </body>
 </html>

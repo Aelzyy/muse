@@ -12,6 +12,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
         include "ojk.css";
@@ -20,13 +23,13 @@
 </head>
 <body>
     <div class="navbar">
-    <div class="logo"><img src="ht.png" alt=""></div>
+    <div class="logo"><img src="logo.png" alt=""></div>
         <a href="login.php">Login</a>
     </div>
 
 
     <div 
-        class="tulus1"><img src="tulus1.png" alt="">
+        class="tulus1"><img src="y.png" alt="">
         <p>Pop Music</p> 
     </div>
 
@@ -36,10 +39,6 @@
 
     <div class="artis">
         <p>Artis</p>
-    </div>
-
-    <div class="jls">
-        <h1>TOPS SONG's</h1>
     </div>
 
     <div class="pop">
@@ -86,5 +85,13 @@
     <div class="abu">
         <p>Langit Abu abu</p>
     </div>
+    <nav>
+        <div class="fot">
+            <p>company</p>
+            <p>company</p>
+            <p>company</p>
+            <p>company</p>
+        </div>
+    </nav>
 </body>
 </html>

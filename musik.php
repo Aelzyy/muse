@@ -14,7 +14,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
+=======
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     <style>
         <?php
         include "ojk.css";
@@ -23,13 +27,18 @@
 </head>
 <body>
     <div class="navbar">
-    <div class="logo"><img src="ht.png" alt=""></div>
+    <div class="logo"><img src="logo.png" alt=""></div>
         <a href="login.php">Login</a>
     </div>
 
 
+<<<<<<< HEAD
     <div class="tulus1">
         <img src="tulus1.png" alt="">
+=======
+    <div 
+        class="tulus1"><img src="y.png" alt="">
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
         <p>Pop Music</p> 
     </div>
 
@@ -38,7 +47,11 @@
     </div>
 
     <div class="artis">
+<<<<<<< HEAD
     <a href="artis.php" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Artist</a>
+=======
+        <p>Artis</p>
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     </div>
 
     <div class="pop">
@@ -85,5 +98,13 @@
     <div class="abu">
         <p>Langit Abu abu</p>
     </div>
+    <nav>
+        <div class="fot">
+            <p>company</p>
+            <p>company</p>
+            <p>company</p>
+            <p>company</p>
+        </div>
+    </nav>
 </body>
 </html>

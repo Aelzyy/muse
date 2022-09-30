@@ -24,8 +24,67 @@
         <a href="login.php">Login</a>
     </div>
 
+
+    <div 
+        class="tulus1"><img src="tulus1.png" alt="">
+        <p>Pop Music</p> 
+    </div>
+
+    <div class="over">
+        <p>Overview</p>
+    </div>
+
+    <div class="artis">
+        <p>Artis</p>
+    </div>
+
     <div class="jls">
         <h1>TOPS SONG's</h1>
+    </div>
+
+    <div class="pop">
+        <p>Pop Music</p>
+    </div>
+
+    <div class="popp">
+        <p>Musik Pop adalah sebuah genre musik populer yang berasal dari bentuk modernnya di Amerika Serikat dan Inggris pada pertengahan 1950-an. Istilah "musik populer" dan "musik pop" sering digunakan secara bergantian, meskipun yang pertama menggambarkan semua musik yang populer dan mencakup banyak gaya yang beragam.</p>
+    </div>
+
+    <div class="top">
+        <p>Top Artist</p>
+    </div>
+
+    <div class="tulus2">
+        <img src="tulus2.png" alt="">
+    </div>
+
+    <div class="album">
+        <p>Top Album</p>
+    </div>
+
+    <div class="tulus3">
+        <img src="tulus3.png" alt="">
+    </div>
+
+    <div class="des">
+        <p>Monokrom adalah album studio ketiga dari penyanyi Tulus. Album ini diliris pada tanggal 3 Agustus 2016. Album Monokrom, merupakan cara Tulus mengucapkan terima kasih untuk seluruh hati dan nama yang memahat pribadinya, serta mewarnai perjalanan hidup dan tentu musiknya, sejauh ini.</p>
+    </div>
+
+    <div class="mono">
+        <p>Monokrom</p>
+    </div>
+
+    <div class="topi">
+        <p>Manusia Kuat</p>
+    </div>
+    <div class="y">
+        <p>Ruang Tersendiri</p>
+    </div>
+    <div class="gila">
+        <p>Tergila Gila</p> 
+    </div>
+    <div class="abu">
+        <p>Langit Abu abu</p>
     </div>
 </body>
 </html>

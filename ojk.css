@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
+    height: 1000px;
 }
 
 
@@ -45,8 +46,8 @@
 .navbar{
     position: absolute;
     top: 0;
-    width: 1364px;
-    height: 80.44px;
+    width: 100%;
+    height: 80px;
     left: 0px;
     top: 0px;
     background: #7D7B7B;
@@ -56,4 +57,203 @@
     position: relative;
     top: 1600px;
     left: 500px;
+}
+
+.tulus1 img{
+    position: absolute;
+    width: 100%;
+    height: 240px;
+    left: 0.41px;
+    top: 80px;
+
+    background: url(image.png);
+}
+
+.tulus1 p{
+    position: absolute;
+    width: 394px;
+    height: 49px;
+    left: 50px;
+    top: 170px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+
+.over p{
+    position: absolute;
+    width: 62px;
+    height: 22px;
+    left: 53px;
+    top: 236px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.artis p{
+    position: absolute;
+    width: 62px;
+    height: 22px;
+    left: 188px;
+    top: 236px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.pop p{
+    position: absolute;
+    width: 162px;
+    height: 26px;
+    left: 50px;
+    top: 350px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 33px;
+
+    color: #000000;
+}
+
+.popp p{
+    position: absolute;
+    width: 1200px;
+    height: 81px;
+    left: 50px;
+    top: 418px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.tulus2 img{
+    position: absolute;
+    width: 600px;
+    height: 500px;
+    border-radius: 5px;
+    left: 50px;
+    top: 650px;
+}
+
+.top p{
+    position: absolute;
+    width: 162px;
+    height: 26px;
+    left: 50px;
+    top: 610px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.album p{
+    position: absolute;
+    width: 186px;
+    height: 26px;
+    left: 710px;
+    top: 610px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 29px;
+    line-height: 35px;
+    color: #000000;
+}
+
+
+.tulus3 img{
+    position: absolute;
+    width: 292px;
+    height: 278px;
+    left: 710px;
+    top: 650px;
+    
+}
+
+.des p{
+    position: absolute;
+    width: 320px;
+    height: 188px;
+    left: 1008px;
+    top: 676px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: #000000;
+}
+
+.mono p{
+    position: absolute;
+    width: 292px;
+    height: 56px;
+    left: 727px;
+    top: 925px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 59px;
+    color: #000000;
+}
+
+.topi p{
+    position: absolute;
+    width: 207px;
+    height: 39px;
+    left: 764px;
+    top: 990px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.y p{
+    position: absolute;
+    width: 207px;
+    height: 39px;
+    left: 764px;
+    top: 1025px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.gila p{
+    position: absolute;
+    width: 207px;
+    height: 39px;
+    left: 764px;
+    top: 1058px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.abu p{
+    position: absolute;
+    width: 207px;
+    height: 39px;
+    left: 764px;
+    top: 1088px;
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
 }

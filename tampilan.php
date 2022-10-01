@@ -15,6 +15,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <style>
         <?php
         include "tampil.css";
@@ -43,11 +44,19 @@
     </div>
 
     <div class="jazz">
+<<<<<<< HEAD
         <img src="jazz.png" alt="">
     </div>  
 
     <div class="jas">
     <a href=""><p>Jazz</p></a>
+=======
+        <a href="artis.php"><img src="jazz.png" alt=""></a>
+    </div>
+
+    <div class="jas">
+        <a href="artis.php"><p>Jazz</p></a>
+>>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
     </div>
 
     <div class="pop">

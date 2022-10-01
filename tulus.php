@@ -14,7 +14,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
+=======
+>>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
@@ -28,8 +31,14 @@
         <a href="login.php">Login</a>
     </div>
 
+<<<<<<< HEAD
     <div class="tulus1">
         <img src="tulus1.png" alt="">
+=======
+
+    <div 
+        class="tulus1"><img src="y.png" alt="">
+>>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
         <p>Pop Music</p> 
     </div>
 

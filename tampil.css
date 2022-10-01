@@ -105,9 +105,14 @@
     height: 385px;
     left: 50px;
     top: 685px;
-
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(image.png);
     border-radius: 10px;
+    filter: grayscale(1);
+    transition: .3s linear;
+}
+
+.jazz img:hover{
+    filter: grayscale(0);
 }
 
 .jas p{
@@ -121,6 +126,11 @@
     font-size: 57px;
     line-height: 69px;
     color: #FFFFFF;
+}
+
+.jas p:hover{
+    color: black;
+    transition: 0.3s;
 }
 
 .pop img{

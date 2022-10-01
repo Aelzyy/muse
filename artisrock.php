@@ -26,7 +26,7 @@
         </ul>
     </div>  
     <div class="kls">
-        <h1>Artis Jazz</h1>
+        <h1>Artis Rock</h1>
         <a href="artis.php" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none; font-family: 'Monserrat'", sans-serif;>Artist</a>
         <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
@@ -35,9 +35,9 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img src="image.png" alt="...">
+      <img src="smoke.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Raisa</h5>
+        <h5 class="card-title">Queen</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
       <div class="card-footer">
@@ -47,9 +47,9 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="image2.png" alt="...">
+      <img src="ardilla.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Tompi</h5>
+        <h5 class="card-title">NIKE ARDILLA</h5>
         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       </div>
       <div class="card-footer">
@@ -59,9 +59,9 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="image3.png" alt="...">
+      <img src="ahmad.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <h5 class="card-title">Ahmad Dhani</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <div class="card-footer">

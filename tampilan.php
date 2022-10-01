@@ -55,7 +55,7 @@
         <img src="yta.png" alt="">
     </div>
     <div class="poppp">
-        <p> Pop</p>
+        <a href=""><p> Pop</p></a>
     </div>
 
     <div class="rck">
@@ -63,15 +63,15 @@
     </div>
 
     <div class="rckk">
-        <p>Rock</p>
+        <a href="" ><p>Rock</p></a>
     </div>
 
     <div class="hp">
-        <img src="hphp.png" alt="">
+        <a href="hiphop.php"><img src="hphp.png" alt=""></a>
     </div>
 
     <div class="hpp">
-        <p>HipHop</p>
+        <a href=""><p>HipHop</p></a>
     </div>
 
     <div class="jdl">

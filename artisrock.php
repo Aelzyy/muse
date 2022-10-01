@@ -38,7 +38,12 @@
       <img src="smoke.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">Queen</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text">Kelahiran 5 SEPTEMBER 1946
+tinggi : 196cm
+Agama : ZOROASTRIAN
+UMUR : -
+Penghargaan :
+BRIT AWARD</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -50,7 +55,13 @@
       <img src="ardilla.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">NIKE ARDILLA</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <p class="card-text">Kelahiran  27  DESEMBER 1975
+Tinggi : 156cm
+Agama : Islam
+UMUR : -
+Penghargaan :
+-LEGEND AWARD
+AMI LEGEND AWARD</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -62,7 +73,13 @@
       <img src="ahmad.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">Ahmad Dhani</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <p class="card-text">Kelahrian 26 Mei 1972
+tinggi :172cm
+Agama : Islam
+50 Tahun
+Penghargaan :
+CLEAR TOP TEN AWARDS
+-Nominator MTV Icon</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>

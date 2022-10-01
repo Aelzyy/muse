@@ -27,9 +27,14 @@
         <a href="login.php">Login</a>
     </div>
 
+<<<<<<< HEAD
+    <div class="tulus1">
+        <img src="tulus1.png" alt="">
+=======
 
     <div 
         class="tulus1"><img src="y.png" alt="">
+>>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
         <p>Pop Music</p> 
     </div>
 

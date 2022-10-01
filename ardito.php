@@ -20,7 +20,7 @@
 <body>
     <div class="navbar">
     <div class="logo"><img src="logo.png" alt=""></div>
-        <a href="login.php">Login</a>
+        <a href="tampilan.php">Home</a>
     </div>
 
     <div 

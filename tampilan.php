@@ -44,17 +44,17 @@
 
     <div class="jazz">
         <img src="jazz.png" alt="">
-    </div>
+    </div>  
 
     <div class="jas">
-        <p>Jazz</p>
+    <a href=""><p>Jazz</p></a>
     </div>
 
     <div class="pop">
         <img src="yta.png" alt="">
     </div>
     <div class="poppp">
-        <p> Pop</p>
+        <a href=""><p> Pop</p></a>
     </div>
 
     <div class="rck">
@@ -62,7 +62,7 @@
     </div>
 
     <div class="rckk">
-        <p>Rock</p>
+        <a href="" ><p>Rock</p></a>
     </div>
 
     <div class="hp">
@@ -70,7 +70,7 @@
     </div>
 
     <div class="hpp">
-        <p>HipHop</p>
+        <a href=""><p>HipHop</p></a>
     </div>
 
     <div class="jdl">

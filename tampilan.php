@@ -67,11 +67,11 @@
     </div>
 
     <div class="hp">
-        <img src="hphp.png" alt="">
+        <a href="hiphop.php"><img src="hphp.png" alt=""></a>
     </div>
 
     <div class="hpp">
-        <p>HipHop</p>
+        <a href="hiphop.php"><p>HipHop</p></a>
     </div>
 
     <div class="jdl">

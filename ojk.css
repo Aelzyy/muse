@@ -9,8 +9,8 @@
 .navbar img{
     position: sticky;
     width: 92px;
-    height: 73px;
-    left: 34px;
+    height: 90px;
+    left: 50px;
     top: 3px;
     background: url(ht.png);
     border-radius: 100px;
@@ -108,7 +108,7 @@
 
 .pop p{
     position: absolute;
-    width: 200px;
+    width: 230  px;
     height: 26px;
     left: 50px;
     top: 350px;
@@ -199,7 +199,6 @@
     font-family: 'Montserrat';
     font-weight: 900;
     font-size: 28px;
-    font-size: 48px;
     line-height: 59px;
     color: #000000;
 }

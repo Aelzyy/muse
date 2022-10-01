@@ -38,7 +38,7 @@
       <img src="RamenGvrl.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">RamenGvrl</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <p class="card-text">AMI Award 2018 trophy for the Best Collaborative Production Work category,AMI Award 2019 in the category of Best Rap/Hip-Hop Production Work.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -50,7 +50,7 @@
       <img src="saykoji.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">Saykoji</h5>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <p class="card-text">Best albums 2015-2017,AMI Award for Best Vocal Hip Hop Artist,Biggest male solo award.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -62,7 +62,7 @@
       <img src="young.png" alt="...">
       <div class="card-body">
         <h5 class="card-title">Young Lex</h5>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <p class="card-text">Never been nominated in ISMA 2K16 (Indonesian Social Media Awards)He has also been nominated for Indonesia's Most Popular Video from the Web TV Asia Awards 2016.</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>

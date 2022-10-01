@@ -43,11 +43,11 @@
     </div>
 
     <div class="jazz">
-        <img src="jazz.png" alt="">
+        <a href="artis.php"><img src="jazz.png" alt=""></a>
     </div>
 
     <div class="jas">
-        <p>Jazz</p>
+        <a href="artis.php"><p>Jazz</p></a>
     </div>
 
     <div class="pop">

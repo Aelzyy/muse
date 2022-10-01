@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "ojk.css";
+        include "oyk.css";
         ?>
     </style>
 </head>
@@ -29,12 +29,12 @@
 
 
     <div 
-        class="tulus1"><img src="y.png" alt="">
-        <p>Pop Music</p> 
+        class="tulus1"><img src="queen1.png" alt="">
+        <p>Rock Music</p> 
     </div>
 
     <div class="over">
-    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
+        <p>Overview</p>
     </div>
 
     <div class="artis">
@@ -42,11 +42,11 @@
     </div>
 
     <div class="pop">
-        <p>Pop Music</p>
+        <p>Rock Music</p>
     </div>
 
     <div class="popp">
-        <p>Musik Pop adalah sebuah genre musik populer yang berasal dari bentuk modernnya di Amerika Serikat dan Inggris pada pertengahan 1950-an. Istilah "musik populer" dan "musik pop" sering digunakan secara bergantian, meskipun yang pertama menggambarkan semua musik yang populer dan mencakup banyak gaya yang beragam.</p>
+        <p>Musik rock atau musik cadas adalah genre yang luas dari musik populer yang berasal dari rock and roll di Amerika Serikat pada akhir 1940-an dan awal 1950-an, berkembang menjadi berbagai gaya yang berbeda pada pertengahan 1960-an hingga seterusnya, terutama di Amerika Serikat dan Inggris.</p>
     </div>
 
     <div class="top">
@@ -54,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="tulus2.png" alt="">
+        <img src="queen3.png" alt="">
     </div>
 
     <div class="album">
@@ -62,15 +62,15 @@
     </div>
 
     <div class="tulus3">
-        <img src="tulus3.png" alt="">
+        <img src="queen2.png" alt="">
     </div>
 
     <div class="des">
-        <p>Monokrom adalah album studio ketiga dari penyanyi Tulus. Album ini diliris pada tanggal 3 Agustus 2016. Album Monokrom, merupakan cara Tulus mengucapkan terima kasih untuk seluruh hati dan nama yang memahat pribadinya, serta mewarnai perjalanan hidup dan tentu musiknya, sejauh ini.</p>
+        <p>Bohemian berarti orang yang tidak nyaman dengan lingkungan sosialnya, sementara rhapsody bermakna puisi atau ekspresi seseorang. Jadi secara sederhana teori ini menyebut jika Bohemian Rhapsody adalah ungkapan isi hati Freddie Mercury.</p>    
     </div>
 
     <div class="mono">
-        <p>Monokrom</p>
+        <p>BOHEMIAN RHAPSODY</p>
     </div>
 
     <div class="topi">
@@ -85,13 +85,5 @@
     <div class="abu">
         <p>Langit Abu abu</p>
     </div>
-    <nav>
-        <div class="fot">
-            <p>company</p>
-            <p>company</p>
-            <p>company</p>
-            <p>company</p>
-        </div>
-    </nav>
 </body>
 </html>

@@ -72,95 +72,16 @@
     background: #000000;
 }
 
-.gambar a img{
-    position: absolute;
-    width: 370px;
-    height: 296px;
-    left: 30px;
-    top: 416px;
+.col{
+    position: relative;
+    top: 400px;
+}
+
+.card img{
     filter: grayscale(1);
     transition: .3s linear;
 }
 
-.gambar{
-    width: 50px;
-}
-
-.gambar a img:hover{
+.card img{
     filter: grayscale(0);
-}
-
-.gambar h3{
-    font-size: 24px;
-    position: relative;
-    top: 756px;
-    left: 180px;
-}
-
-.gambar h4{
-    position: relative;
-    top: 776px;
-    left: 30px;
-}
-
-.gambar2 img{
-    position: absolute;
-    width: 370px;
-    height: 296px;
-    left: 500px;
-    top: 416px;
-    filter: grayscale(1);
-    transition: .3s linear;
-}
-
-.gambar2 img:hover{
-    filter: grayscale(0);
-}
-
-.gambar2 h3{
-    font-size: 24px;
-    position: relative;
-    top: 654px;
-    left: 660px;
-}
-
-.gambar2{
-    width: 50px;
-}
-
-.gambar2 h4{
-    position: relative;
-    top: 670px;
-    left: 500px;
-}
-
-.gambar3 img{
-    position: absolute;
-    width: 370px;
-    height: 296px;
-    left: 970px;
-    top: 416px;
-    filter: grayscale(1);
-    transition: .3s linear;
-}
-
-.gambar3 img:hover{
-    filter: grayscale(0);
-}
-
-.gambar3 h3{
-    font-size: 24px;
-    position: relative;
-    top: 550px;
-    left: 1150px;
-}
-
-.gambar3{
-    width: 50px;
-}
-
-.gambar3 h4{
-    position: relative;
-    top: 570px;
-    left: 970px;
 }

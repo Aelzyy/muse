@@ -130,7 +130,7 @@
 
 .jas p:hover{
     color: black;
-    tra
+    transition: 0.3s;
 }
 
 .pop img{

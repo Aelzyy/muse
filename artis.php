@@ -16,7 +16,7 @@
 </head>
 <body>
 <div class="navbar">
-        <div class="logo"><img src="ht.png" alt=""></div>
+        <div class="logo"><img src="logo.png" alt=""></div>
         <ul>
             <li><a href="#">Login</a></li>
         </ul>

@@ -195,13 +195,13 @@
 
 .mono p{
     position: absolute;
-    width: 308px;
+    width: 350px;
     height: 56px;
-    left: 780px;
+    left: 727px;
     top: 925px;
     font-family: 'Montserrat';
     font-weight: 900;
-    font-size: 28px;
+    font-size: 25px;
     line-height: 59px;
     color: #000000;
 }

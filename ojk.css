@@ -2,7 +2,11 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
+    height: 140px;
+=======
     height: 200px;
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
 }
 
 
@@ -33,7 +37,7 @@
     height: 15.86px;
     left: 1250px;
     top: 34.31px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -65,8 +69,6 @@
     height: 200px;
     left: 0.41px;
     top: 80px;
-
-    background: url(image.png);
 }
 
 .tulus1 p{
@@ -74,8 +76,13 @@
     width: 394px;
     height: 49px;
     left: 50px;
+<<<<<<< HEAD
+    top: 170px;
+    font-family: 'Montserrat', sans-serif;
+=======
     top: 185px;
     font-family: 'Montserrat';
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     font-weight: 700;
     font-size: 50px;
     line-height: 61px;
@@ -87,6 +94,10 @@
     width: 62px;
     height: 22px;
     left: 53px;
+<<<<<<< HEAD
+    top: 236px;
+    font-family: 'Montserrat', sans-serif;
+=======
     top: 250px;
     font-family: 'Montserrat';
     font-weight: 700;
@@ -102,6 +113,7 @@
     left: 188px;
     top: 250px;
     font-family: 'Montserrat';
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
@@ -114,11 +126,10 @@
     height: 26px;
     left: 50px;
     top: 350px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 33px;
     line-height: 33px;
-
     color: #000000;
 }
 
@@ -128,8 +139,13 @@
     height: 81px;
     left: 50px;
     top: 418px;
+<<<<<<< HEAD
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+=======
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     font-size: 20px;
     line-height: 24px;
     color: #000000;
@@ -150,7 +166,7 @@
     height: 26px;
     left: 50px;
     top: 610px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 29px;
     line-height: 35px;
@@ -163,7 +179,7 @@
     height: 26px;
     left: 710px;
     top: 610px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 29px;
     line-height: 35px;
@@ -186,8 +202,13 @@
     height: 188px;
     left: 1010px;
     top: 650px;
+<<<<<<< HEAD
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700;
+=======
     font-family: 'Roboto', sans-serif;
     font-weight: 100;
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
     font-size: 17px;
     line-height: 21px;
     color: #000000;
@@ -199,9 +220,18 @@
     height: 56px;
     left: 780px;
     top: 925px;
+<<<<<<< HEAD
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+=======
     font-family: 'Montserrat';
     font-weight: 900;
+<<<<<<< HEAD
     font-size: 28px;
+=======
+>>>>>>> 192709c2d478ae7c147c5dceef938b50b04c709a
+    font-size: 48px;
+>>>>>>> 27648b552cef059ddafea8a80b55e826c55687ce
     line-height: 59px;
     color: #000000;
 }
@@ -212,7 +242,7 @@
     height: 39px;
     left: 764px;
     top: 990px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 22px;
     line-height: 27px;
@@ -225,7 +255,7 @@
     height: 39px;
     left: 764px;
     top: 1025px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 22px;
     line-height: 27px;
@@ -238,7 +268,7 @@
     height: 39px;
     left: 764px;
     top: 1058px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 22px;
     line-height: 27px;
@@ -251,7 +281,7 @@
     height: 39px;
     left: 764px;
     top: 1088px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;

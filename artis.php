@@ -22,12 +22,12 @@
 <div class="navbar">
         <div class="logo"><img src="logo.png" alt=""></div>
         <ul>
-            <li><a href="#">Login</a></li>
+            <li><a href="tampilan.php">Home</a></li>
         </ul>
     </div>  
     <div class="kls">
         <h1>Artis Jazz</h1>
-        <a href="artis.php" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none; font-familt: 'Monserrat", sans-serif;>Artist</a>
+        <a href="artis.php" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 165px;font-family: 'Montserrat'; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none; font-familt: 'Monserrat";>Artist</a>
         <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
 

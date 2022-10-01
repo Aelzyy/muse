@@ -44,19 +44,11 @@
     </div>
 
     <div class="jazz">
-<<<<<<< HEAD
-        <img src="jazz.png" alt="">
-    </div>  
-
-    <div class="jas">
-    <a href=""><p>Jazz</p></a>
-=======
         <a href="artis.php"><img src="jazz.png" alt=""></a>
     </div>
 
     <div class="jas">
         <a href="artis.php"><p>Jazz</p></a>
->>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
     </div>
 
     <div class="pop">
@@ -75,7 +67,7 @@
     </div>
 
     <div class="hp">
-        <img src="hphp.png" alt="">
+        <a href="hiphop.php"><img src="hphp.png" alt=""></a>
     </div>
 
     <div class="hpp">

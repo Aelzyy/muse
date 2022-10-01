@@ -37,7 +37,7 @@
     <div class="card">
       <img src="image.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Raisa</h5>
+        <a href=""><h5 class="card-title">Raisa</h5></a>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
       </div>
       <div class="card-footer">
@@ -49,7 +49,7 @@
     <div class="card">
       <img src="image2.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Tompi</h5>
+        <a href=""><h5 class="card-title">Tompi</h5></a>
         <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
       </div>
       <div class="card-footer">
@@ -61,7 +61,7 @@
     <div class="card">
       <img src="image3.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Card title</h5>
+        <a href="ardito.php"><h5 class="card-title">Ardito</h5></a>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
       </div>
       <div class="card-footer">

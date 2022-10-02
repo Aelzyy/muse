@@ -17,18 +17,20 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "ojk.css";
+        include "nike.css";
         ?>
     </style>
 </head>
 <body>
     <div class="navbar">
     <div class="logo"><img src="logo.png" alt=""></div>
-        <a href="login.php">Login</a>
+        <a href="tampilan.php">Home</a>
     </div>
-    <div class="tulus1">
-        <img src="tulus1.png" alt="">
-        <p>Pop Music</p> 
+
+
+    <div 
+        class="tulus1"><img src="gitar.png" alt="">
+        <p>Rock Music</p> 
     </div>
 
     <div class="over">
@@ -40,11 +42,11 @@
     </div>
 
     <div class="pop">
-        <p>Pop Music</p>
+        <p>Rock Music</p>
     </div>
 
     <div class="popp">
-        <p>Musik Pop adalah sebuah genre musik populer yang berasal dari bentuk modernnya di Amerika Serikat dan Inggris pada pertengahan 1950-an. Istilah "musik populer" dan "musik pop" sering digunakan secara bergantian, meskipun yang pertama menggambarkan semua musik yang populer dan mencakup banyak gaya yang beragam.</p>
+        <p>Musik rock atau musik cadas adalah genre yang luas dari musik populer yang berasal dari rock and roll di Amerika Serikat pada akhir 1940-an dan awal 1950-an, berkembang menjadi berbagai gaya yang berbeda pada pertengahan 1960-an hingga seterusnya, terutama di Amerika Serikat dan Inggris.</p>
     </div>
 
     <div class="top">
@@ -52,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="tulus2.png" alt="">
+        <img src="dhani.png" alt="">
     </div>
 
     <div class="album">
@@ -60,28 +62,28 @@
     </div>
 
     <div class="tulus3">
-        <img src="tulus3.png" alt="">
+        <img src="camp.png" alt="">
     </div>
 
     <div class="des">
-        <p>Monokrom adalah album studio ketiga dari penyanyi Tulus. Album ini diliris pada tanggal 3 Agustus 2016. Album Monokrom, merupakan cara Tulus mengucapkan terima kasih untuk seluruh hati dan nama yang memahat pribadinya, serta mewarnai perjalanan hidup dan tentu musiknya, sejauh ini.</p>
+        <p> Lagu Risalah Hati ini memiliki makna ungkapan isi hati seorang pria yang tengah mencintai seorang perempuan, dan dia akan berusaha agar cintanya tidak bertepuk sebelah tangan.</p>
     </div>
 
     <div class="mono">
-        <p>Monokrom</p>
+        <p>RISALAH HATI</p>
     </div>
 
     <div class="topi">
-        <p>Manusia Kuat</p>
+        <p>ARJUNA</p>
     </div>
     <div class="y">
-        <p>Ruang Tersendiri</p>
+        <p>ANGIN</p>
     </div>
     <div class="gila">
-        <p>Tergila Gila</p> 
+        <p>PUPUS</p> 
     </div>
     <div class="abu">
-        <p>Langit Abu abu</p>
+        <p>MUNAJAT CINTA</p>
     </div>
 </body>
 </html>

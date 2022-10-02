@@ -85,8 +85,3 @@
 .card img:hover{
     filter: grayscale(0);
 }
-
-.card-title{
-    text-decoration: none;
-    color: black;
-}

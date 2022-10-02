@@ -34,11 +34,11 @@
     </div>
 
     <div class="over">
-    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
+    <a href="#">Overview</a>
     </div>
 
     <div class="artis">
-        <p>Artis</p>
+        <a href="#">Artis</a>
     </div>
 
     <div class="pop">

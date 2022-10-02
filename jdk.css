@@ -1,8 +1,7 @@
 *{
     margin: 0px;
     padding: 0;
-    box-sizing: border-box;
-    height: 140px;
+    height: 90px;
 }
 
 
@@ -80,7 +79,7 @@
     color: #FFFFFF;
 }
 
-.over p{
+.over a{
     position: absolute;
     width: 62px;
     height: 22px;
@@ -88,24 +87,27 @@
     top: 236px;
     font-family: 'Montserrat', sans-serif;
     top: 250px;
-    font-family: 'Montserrat';
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
     color: #FFFFFF;
+    text-decoration: none;
+    list-style: none;
 }
 
-.artis p{
+.artis a{
     position: absolute;
     width: 62px;
     height: 22px;
     left: 188px;
     top: 250px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
     color: #FFFFFF;
+    list-style: none;
+    text-decoration: none;
 }
 
 .pop p{

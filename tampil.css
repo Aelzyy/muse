@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
-    height: 200px;
 }
 
 
@@ -162,6 +161,12 @@
     left: 50px;
     top: 1172px;
     border-radius: 10px;
+    filter: grayscale(1);
+    transition: .3s linear;
+}
+
+.rck img:hover{
+    filter: grayscale(0);
 }
 
 .rckk p{
@@ -175,6 +180,11 @@
     font-size: 57px;
     line-height: 69px;
     color: #FFFFFF;
+}
+
+.rckk p:hover{
+    color: #000000;
+    transition: 0.3;
 }
 
 .hp img{

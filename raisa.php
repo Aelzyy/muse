@@ -14,29 +14,27 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<<<<<<< HEAD
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
-=======
->>>>>>> 5da70872045dcc6d1d9e0c277288d37f4e57b556
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "ojk.css";
+        include "raisa.css";
         ?>
     </style>
 </head>
 <body>
     <div class="navbar">
     <div class="logo"><img src="logo.png" alt=""></div>
-        <a href="login.php">Login</a>
+        <a href="tampilan.php">Home</a>
     </div>
+
     <div class="tulus1">
-        <img src="tulus1.png" alt="">
+        <img src="ayank.png" alt="">
         <p>Pop Music</p> 
     </div>
 
     <div class="over">
-    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
+    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 220px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
 
     <div class="artis">
@@ -56,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="tulus2.png" alt="">
+        <img src="raisacuy.png" alt="">
     </div>
 
     <div class="album">
@@ -64,28 +62,28 @@
     </div>
 
     <div class="tulus3">
-        <img src="tulus3.png" alt="">
+        <img src="raisasatu.png" alt="">
     </div>
 
     <div class="des">
-        <p>Monokrom adalah album studio ketiga dari penyanyi Tulus. Album ini diliris pada tanggal 3 Agustus 2016. Album Monokrom, merupakan cara Tulus mengucapkan terima kasih untuk seluruh hati dan nama yang memahat pribadinya, serta mewarnai perjalanan hidup dan tentu musiknya, sejauh ini.</p>
+       <p>Lagu Bahasa Kalbu diciptakan oleh titi dj tak heran jika lagunya dapat sangat menyentuh dipenuhi dengan bahasa bahasa yang lumayan mudah dipahami namun sebenarnya memiliki makna yang sangat luar biasah</p>
     </div>
 
     <div class="mono">
-        <p>Monokrom</p>
+        <p>Bahasa kalbu</p>
     </div>
 
     <div class="topi">
-        <p>Manusia Kuat</p>
+        <p>Trust Again</p>
     </div>
     <div class="y">
-        <p>Ruang Tersendiri</p>
+        <p>Serba Salah </p>
     </div>
     <div class="gila">
-        <p>Tergila Gila</p> 
+        <p>Kali Kedua</p> 
     </div>
     <div class="abu">
-        <p>Langit Abu abu</p>
+        <p>Anganku Anganmu</p>
     </div>
 </body>
 </html>

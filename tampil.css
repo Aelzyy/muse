@@ -32,7 +32,7 @@
     height: 15.86px;
     left: 1190px;
     top: 34.31px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -65,7 +65,7 @@
     height: 85px;
     left: 611px;
     top: 250px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 70px;
     line-height: 85px;
@@ -78,7 +78,7 @@
     height: 20px;
     left: 518px;
     top: 480px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
@@ -91,7 +91,7 @@
     height: 41px;
     left: 757px;
     top: 480px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 16px;
     line-height: 20px;
@@ -120,7 +120,7 @@
     height: 63px;
     left: 290px;
     top: 839px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 57px;
     line-height: 69px;
@@ -147,7 +147,7 @@
     height: 63px;
     left: 960px;
     top: 839px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 57px;
     line-height: 69px;
@@ -175,7 +175,7 @@
     height: 63px;
     left: 290px;
     top: 1333px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 57px;
     line-height: 69px;
@@ -216,7 +216,7 @@
     height: 63px;
     left: 948px;
     top: 1330px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 57px;
     line-height: 69px;
@@ -238,7 +238,7 @@
     left: 580px;
     top: 1666px;
     font-weight: bold;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-size: 40px;
 }
 
@@ -256,7 +256,7 @@
     height: 35px;
     left: 239px;
     top: 2028px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -270,7 +270,7 @@
     height: 23px;
     left: 294px;
     top: 2066px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -293,7 +293,7 @@
     height: 35px;
     left: 675px;
     top: 2028px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -306,7 +306,7 @@
     height: 23px;
     left: 733px;
     top: 2066px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -327,7 +327,7 @@
     height: 35px;
     left: 1038px;
     top: 2028px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -340,7 +340,7 @@
     height: 23px;
     left: 1130px;
     top: 2066px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -363,7 +363,7 @@
     height: 35px;
     left: 238px;
     top: 2396px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -376,7 +376,7 @@
     height: 23px;
     left: 229px;
     top: 2431px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -398,7 +398,7 @@
     height: 35px;
     left: 706px;
     top: 2396px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -411,7 +411,7 @@
     height: 23px;
     left: 718px;
     top: 2431px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -433,7 +433,7 @@
     height: 35px;
     left: 1051px;
     top: 2396px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 600;
     font-size: 29px;
     line-height: 35px;
@@ -444,9 +444,9 @@
     position: absolute;
     width: 99px;
     height: 23px;
-    left: 1106px;
+    left: 1109px;
     top: 2431px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     font-size: 19px;
     line-height: 23px;
@@ -454,3 +454,6 @@
     
 }
 
+.ko img{
+    
+}

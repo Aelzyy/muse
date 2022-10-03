@@ -14,8 +14,9 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-u1OknCvxWvY5kfmNBILK2hRnQC3Pr17a+RTT6rIHI7NnikvbZlHgTPOOmMi466C8" crossorigin="anonymous"></script>
     <style>
         <?php
         include "tampil.css";
@@ -43,12 +44,10 @@
         <p>New Relase</p>
     </div>
 
-    <div class="jazz">
-<<<<<<< HEAD
-        <a href="artis.php"><img src="jazz.png" alt=""></a>
-=======
+
+
+<div class="jazz">
         <a href="artis.php"><img src="yta.png" alt=""></a>
->>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
     </div>
 
     <div class="jas">
@@ -123,7 +122,7 @@
     </div>
 
 
-
+<div class="ko">
     <div class="erd">
         <img src="ard.png" alt="">
     </div>
@@ -159,6 +158,11 @@
     <div class="yyyl">
         <p>Young Lex</p>
     </div>
-
+</div>
+<footer class="bg-light">
+            <div class="text-center p-3" style="background: #CCCCCC;">
+                copyright &copy; 2022
+            </div>
+        </footer>
 </body>
 </html>

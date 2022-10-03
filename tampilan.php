@@ -44,7 +44,11 @@
     </div>
 
     <div class="jazz">
+<<<<<<< HEAD
+        <a href="artis.php"><img src="jazz.png" alt=""></a>
+=======
         <a href="artis.php"><img src="yta.png" alt=""></a>
+>>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
     </div>
 
     <div class="jas">

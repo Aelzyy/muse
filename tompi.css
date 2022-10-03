@@ -2,12 +2,8 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
-<<<<<<< HEAD
     height: 140px;
 
-=======
-    height: 200px;
->>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
 }
 
 
@@ -36,7 +32,7 @@
     position: absolute;
     width: 64.89px;
     height: 15.86px;
-    left: 1250px;
+    left: 1190px;
     top: 34.31px;
     font-family: 'Montserrat', sans-serif;
     font-style: normal;
@@ -67,7 +63,7 @@
 .tulus1 img{
     position: absolute;
     width: 100%;
-    height: 200px;
+    height: 209px;
     left: 0.41px;
     top: 80px;
 }
@@ -77,7 +73,7 @@
     width: 394px;
     height: 49px;
     left: 50px;
-    top: 185px;
+    top: 150px;
     font-family: 'Montserrat';
     font-weight: 700;
     font-size: 50px;
@@ -90,11 +86,7 @@
     width: 62px;
     height: 22px;
     left: 53px;
-<<<<<<< HEAD
     top: 236px;
-=======
-    top: 250px;
->>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
     font-family: 'Montserrat';
     font-weight: 700;
     font-size: 20px;
@@ -107,7 +99,7 @@
     width: 62px;
     height: 22px;
     left: 188px;
-    top: 250px;
+    top: 220px;
     font-family: 'Montserrat';
     font-weight: 700;
     font-size: 20px;
@@ -130,7 +122,7 @@
 
 .popp p{
     position: absolute;
-    width: 1280px;
+    width: 1200px;
     height: 81px;
     left: 50px;
     top: 418px;
@@ -188,7 +180,7 @@
 
 .des p{
     position: absolute;
-    width: 330px;
+    width: 250px;
     height: 188px;
     left: 1010px;
     top: 650px;
@@ -201,14 +193,13 @@
 
 .mono p{
     position: absolute;
-    width: 308px;
+    width: 358px;
     height: 56px;
-    left: 780px;
+    left: 720px;
     top: 925px;
     font-family: 'Montserrat';
     font-weight: 900;
     font-size: 28px;
-    font-size: 48px;
     line-height: 59px;
     color: #000000;
 }
@@ -268,7 +259,7 @@
 .fot{
     display:  flex;
     position: absolute;
-    width: 100px;
+    width: 400px;
     height: 23.03px;
     left: 892px;
     top: 1362.25px;

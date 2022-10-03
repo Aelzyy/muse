@@ -26,10 +26,8 @@
     <div class="logo"><img src="logo.png" alt=""></div>
         <a href="login.php">Login</a>
     </div>
-
-
-    <div 
-        class="tulus1"><img src="y.png" alt="">
+    <div class="tulus1">
+        <img src="tulus1.png" alt="">
         <p>Pop Music</p> 
     </div>
 

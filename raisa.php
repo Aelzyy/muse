@@ -14,10 +14,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "oyk.css";
+        include "raisa.css";
         ?>
     </style>
 </head>
@@ -27,14 +28,13 @@
         <a href="tampilan.php">Home</a>
     </div>
 
-
-    <div 
-        class="tulus1"><img src="queen1.png" alt="">
-        <p>Rock Music</p> 
+    <div class="tulus1">
+        <img src="ayank.png" alt="">
+        <p>Pop Music</p> 
     </div>
 
     <div class="over">
-        <p>Overview</p>
+    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 220px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
 
     <div class="artis">
@@ -42,11 +42,11 @@
     </div>
 
     <div class="pop">
-        <p>Rock Music</p>
+        <p>Pop Music</p>
     </div>
 
     <div class="popp">
-        <p>Musik rock atau musik cadas adalah genre yang luas dari musik populer yang berasal dari rock and roll di Amerika Serikat pada akhir 1940-an dan awal 1950-an, berkembang menjadi berbagai gaya yang berbeda pada pertengahan 1960-an hingga seterusnya, terutama di Amerika Serikat dan Inggris.</p>
+        <p>Musik Pop adalah sebuah genre musik populer yang berasal dari bentuk modernnya di Amerika Serikat dan Inggris pada pertengahan 1950-an. Istilah "musik populer" dan "musik pop" sering digunakan secara bergantian, meskipun yang pertama menggambarkan semua musik yang populer dan mencakup banyak gaya yang beragam.</p>
     </div>
 
     <div class="top">
@@ -54,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="queen3.png" alt="">
+        <img src="raisacuy.png" alt="">
     </div>
 
     <div class="album">
@@ -62,28 +62,28 @@
     </div>
 
     <div class="tulus3">
-        <img src="queen2.png" alt="">
+        <img src="raisasatu.png" alt="">
     </div>
 
     <div class="des">
-        <p>Bohemian berarti orang yang tidak nyaman dengan lingkungan sosialnya, sementara rhapsody bermakna puisi atau ekspresi seseorang. Jadi secara sederhana teori ini menyebut jika Bohemian Rhapsody adalah ungkapan isi hati Freddie Mercury.</p>    
+       <p>Lagu Bahasa Kalbu diciptakan oleh titi dj tak heran jika lagunya dapat sangat menyentuh dipenuhi dengan bahasa bahasa yang lumayan mudah dipahami namun sebenarnya memiliki makna yang sangat luar biasah</p>
     </div>
 
     <div class="mono">
-        <p>BOHEMIAN RHAPSODY</p>
+        <p>Bahasa kalbu</p>
     </div>
 
     <div class="topi">
-        <p>Manusia Kuat</p>
+        <p>Trust Again</p>
     </div>
     <div class="y">
-        <p>Ruang Tersendiri</p>
+        <p>Serba Salah </p>
     </div>
     <div class="gila">
-        <p>Tergila Gila</p> 
+        <p>Kali Kedua</p> 
     </div>
     <div class="abu">
-        <p>Langit Abu abu</p>
+        <p>Anganku Anganmu</p>
     </div>
 </body>
 </html>

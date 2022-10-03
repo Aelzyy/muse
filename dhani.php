@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "oyk.css";
+        include "nike.css";
         ?>
     </style>
 </head>
@@ -29,12 +29,12 @@
 
 
     <div 
-        class="tulus1"><img src="queen1.png" alt="">
+        class="tulus1"><img src="gitar.png" alt="">
         <p>Rock Music</p> 
     </div>
 
     <div class="over">
-        <p>Overview</p>
+    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
 
     <div class="artis">
@@ -54,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="queen3.png" alt="">
+        <img src="dhani.png" alt="">
     </div>
 
     <div class="album">
@@ -62,28 +62,28 @@
     </div>
 
     <div class="tulus3">
-        <img src="queen2.png" alt="">
+        <img src="camp.png" alt="">
     </div>
 
     <div class="des">
-        <p>Bohemian berarti orang yang tidak nyaman dengan lingkungan sosialnya, sementara rhapsody bermakna puisi atau ekspresi seseorang. Jadi secara sederhana teori ini menyebut jika Bohemian Rhapsody adalah ungkapan isi hati Freddie Mercury.</p>    
+        <p> Lagu Risalah Hati ini memiliki makna ungkapan isi hati seorang pria yang tengah mencintai seorang perempuan, dan dia akan berusaha agar cintanya tidak bertepuk sebelah tangan.</p>
     </div>
 
     <div class="mono">
-        <p>BOHEMIAN RHAPSODY</p>
+        <p>RISALAH HATI</p>
     </div>
 
     <div class="topi">
-        <p>Manusia Kuat</p>
+        <p>ARJUNA</p>
     </div>
     <div class="y">
-        <p>Ruang Tersendiri</p>
+        <p>ANGIN</p>
     </div>
     <div class="gila">
-        <p>Tergila Gila</p> 
+        <p>PUPUS</p> 
     </div>
     <div class="abu">
-        <p>Langit Abu abu</p>
+        <p>MUNAJAT CINTA</p>
     </div>
 </body>
 </html>

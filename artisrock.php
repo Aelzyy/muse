@@ -22,11 +22,11 @@
 <div class="navbar">
         <div class="logo"><img src="logo.png" alt=""></div>
         <ul>
-            <li><a href="tampilan.php">Home</a></li>
+            <li><a href="#">Login</a></li>
         </ul>
     </div>  
     <div class="kls">
-        <h1>Artis Jazz</h1>
+        <h1>Artis Rock</h1>
         <a href="artis.php" style="position: absolute; width: 62px; height: 22px;left: 188px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none; font-family: 'Monserrat'", sans-serif;>Artist</a>
         <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 165px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
@@ -35,10 +35,15 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img src="image.png" alt="...">
+      <img src="smoke.png" alt="...">
       <div class="card-body">
-        <a href=""><h5 class="card-title">Raisa</h5></a>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+        <h5 class="card-title">Queen</h5>
+        <p class="card-text">Kelahiran 5 SEPTEMBER 1946
+tinggi : 196cm
+Agama : ZOROASTRIAN
+UMUR : -
+Penghargaan :
+BRIT AWARD</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -47,10 +52,16 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="image2.png" alt="...">
+      <img src="ardilla.png" alt="...">
       <div class="card-body">
-        <a href=""><h5 class="card-title">Tompi</h5></a>
-        <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+        <h5 class="card-title">NIKE ARDILLA</h5>
+        <p class="card-text">Kelahiran  27  DESEMBER 1975
+Tinggi : 156cm
+Agama : Islam
+UMUR : -
+Penghargaan :
+-LEGEND AWARD
+AMI LEGEND AWARD</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>
@@ -59,10 +70,16 @@
   </div>
   <div class="col">
     <div class="card">
-      <img src="image3.png" alt="...">
+      <img src="ahmad.png" alt="...">
       <div class="card-body">
-        <a href="ardito.php"><h5 class="card-title">Ardito</h5></a>
-        <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+        <h5 class="card-title">Ahmad Dhani</h5>
+        <p class="card-text">Kelahrian 26 Mei 1972
+tinggi :172cm
+Agama : Islam
+50 Tahun
+Penghargaan :
+CLEAR TOP TEN AWARDS
+-Nominator MTV Icon</p>
       </div>
       <div class="card-footer">
         <small class="text-muted">Last updated 3 mins ago</small>

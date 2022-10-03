@@ -1,7 +1,8 @@
 *{
     margin: 0px;
     padding: 0;
-    height: 90px;
+    box-sizing: border-box;
+    height: 200px;
 }
 
 
@@ -32,7 +33,7 @@
     height: 15.86px;
     left: 1250px;
     top: 34.31px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
@@ -64,8 +65,6 @@
     height: 200px;
     left: 0.41px;
     top: 80px;
-
-    background: url(image.png);
 }
 
 .tulus1 p{
@@ -113,11 +112,10 @@
     height: 26px;
     left: 50px;
     top: 350px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 33px;
     line-height: 33px;
-
     color: #000000;
 }
 
@@ -149,7 +147,7 @@
     height: 26px;
     left: 50px;
     top: 610px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 29px;
     line-height: 35px;
@@ -162,7 +160,7 @@
     height: 26px;
     left: 710px;
     top: 610px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     font-size: 29px;
     line-height: 35px;
@@ -196,62 +194,58 @@
     position: absolute;
     width: 350px;
     height: 56px;
-    left: 750px;
+    left: 780px;
     top: 925px;
     font-family: 'Montserrat';
-    font-weight: 900;
-    font-size: 28px;
+    font-weight: 600;
+    font-size: 25px;
     line-height: 59px;
     color: #000000;
 }
 
 .topi p{
     position: absolute;
-    width: 207px;
+    width: 300px;
     height: 39px;
     left: 764px;
     top: 990px;
     font-family: 'Montserrat';
-    font-weight: 400;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 27px;
     color: #000000;
 }
 
 .y p{
     position: absolute;
-    width: 207px;
+    width: 300px;
     height: 39px;
     left: 764px;
     top: 1025px;
     font-family: 'Montserrat';
-    font-weight: 400;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 27px;
     color: #000000;
 }
 
 .gila p{
     position: absolute;
-    width: 207px;
+    width: 300px;
     height: 39px;
     left: 764px;
     top: 1058px;
     font-family: 'Montserrat';
-    font-weight: 400;
-    font-size: 22px;
+    font-size: 20px;
     line-height: 27px;
     color: #000000;
 }
 
 .abu p{
     position: absolute;
-    width: 250px;
+    width: 300px;
     height: 39px;
     left: 764px;
     top: 1088px;
     font-family: 'Montserrat';
-    font-weight: 400;
     font-size: 20px;
     line-height: 27px;
     color: #000000;

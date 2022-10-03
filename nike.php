@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "oyk.css";
+        include "nike.css";
         ?>
     </style>
 </head>
@@ -29,12 +29,12 @@
 
 
     <div 
-        class="tulus1"><img src="queen1.png" alt="">
+        class="tulus1"><img src="baju.png" alt="">
         <p>Rock Music</p> 
     </div>
 
     <div class="over">
-        <p>Overview</p>
+    <a href="#" style="position: absolute; width: 62px; height: 22px;left: 49px;top: 237px;font-family: 'Montserrat'; font-style: normal; font-weight: 700; font-size: 20px; line-height: 24px; color: #FFFFFF; text-decoration: none;">Overview</a>
     </div>
 
     <div class="artis">
@@ -54,7 +54,7 @@
     </div>
 
     <div class="tulus2">
-        <img src="queen3.png" alt="">
+        <img src="NIKE.png" alt="">
     </div>
 
     <div class="album">
@@ -62,28 +62,28 @@
     </div>
 
     <div class="tulus3">
-        <img src="queen2.png" alt="">
+        <img src="ALBUM.png" alt="">
     </div>
 
     <div class="des">
-        <p>Bohemian berarti orang yang tidak nyaman dengan lingkungan sosialnya, sementara rhapsody bermakna puisi atau ekspresi seseorang. Jadi secara sederhana teori ini menyebut jika Bohemian Rhapsody adalah ungkapan isi hati Freddie Mercury.</p>    
+        <p> Lagu Seberkas Sinar menceritakan tentang dilema yang dirasakan seseorang akibat beragam permasalahan di hidupnya, termasuk tujuan hidup dan perjalanan cinta yang sedang dijalani.</p>
     </div>
 
     <div class="mono">
-        <p>BOHEMIAN RHAPSODY</p>
+        <p>SEBERKAS SINAR</p>
     </div>
 
     <div class="topi">
-        <p>Manusia Kuat</p>
+        <p>BINTANG KEHIDUPAN</p>
     </div>
     <div class="y">
-        <p>Ruang Tersendiri</p>
+        <p>SANDIWARA CINTA</p>
     </div>
     <div class="gila">
-        <p>Tergila Gila</p> 
+        <p>BIARKAN CINTAMU BERLALU</p> 
     </div>
     <div class="abu">
-        <p>Langit Abu abu</p>
+        <p>MAMA AKU INGIN PULANG</p>
     </div>
 </body>
 </html>

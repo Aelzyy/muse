@@ -2,7 +2,12 @@
     margin: 0px;
     padding: 0;
     box-sizing: border-box;
+<<<<<<< HEAD
+    height: 140px;
+
+=======
     height: 200px;
+>>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
 }
 
 
@@ -85,7 +90,11 @@
     width: 62px;
     height: 22px;
     left: 53px;
+<<<<<<< HEAD
+    top: 236px;
+=======
     top: 250px;
+>>>>>>> 28458bb7ffad0f3c39b3a2f285dea6d2c84db8e4
     font-family: 'Montserrat';
     font-weight: 700;
     font-size: 20px;

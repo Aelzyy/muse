@@ -37,7 +37,7 @@
     <div class="card">
       <img src="smoke.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Queen</h5>
+        <a href="queen.php"><h5 class="card-title">Queen</h5></a>
         <p class="card-text">Kelahiran 5 SEPTEMBER 1946
 tinggi : 196cm
 Agama : ZOROASTRIAN
@@ -54,7 +54,7 @@ BRIT AWARD</p>
     <div class="card">
       <img src="ardilla.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">NIKE ARDILLA</h5>
+        <a href="nike.php"><h5 class="card-title">NIKE ARDILLA</h5></a>
         <p class="card-text">Kelahiran  27  DESEMBER 1975
 Tinggi : 156cm
 Agama : Islam
@@ -72,7 +72,7 @@ AMI LEGEND AWARD</p>
     <div class="card">
       <img src="ahmad.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Ahmad Dhani</h5>
+        <a href="dhani.php"><h5 class="card-title">Ahmad Dhani</h5></a>
         <p class="card-text">Kelahrian 26 Mei 1972
 tinggi :172cm
 Agama : Islam

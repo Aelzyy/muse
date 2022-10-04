@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar img{
+    position: absolute;
+    width: 92px;
+    height: 73px;
+    left: 34px;
+    top: 3px;
+    background: url(ht.png);
+    border-radius: 100px;
+}
+
+.navbar ul li a{
+    position: absolute;
+    width: 64.89px;
+    height: 15.86px;
+    left: 1280px;
+    top: 34.31px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+.navbar{
+    position: absolute;
+    width: 1347px;
+    height: 80.44px;
+    left: 0px;
+    top: 0px;
+    background: #7D7B7B;
+}
+
+.font h2{
+    position: relative;
+    top: 100px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.font{
+    width: 1000px;
+}
+
+.kls h1{
+    position: absolute;
+    width: 370px;
+    height: 55px;
+    left: 50px;
+    top: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 61px;
+    color: white;
+}
+
+.kls{
+    position: absolute;
+    width: 1347px;
+    height: 200px;
+    left: 0px;
+    top: 80px;
+    background: #000000;
+}
+
+.col{
+    position: relative;
+    top: 400px;
+}
+
+.card img{
+    filter: grayscale(1);
+    transition: .3s linear;
+}
+
+.card img:hover{
+    filter: grayscale(0);
+}

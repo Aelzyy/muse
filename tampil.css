@@ -196,6 +196,13 @@
     border-radius: 10px;
     filter: grayscale(1);
     transition: .3s linear;
+<<<<<<< HEAD
+}
+
+.hp img:hover{
+    filter: grayscale(0);
+=======
+>>>>>>> d502bb66040a543e54cd3a64fae0551c76d6cab9
 }
 
 .hp img:hover{
@@ -218,7 +225,10 @@
 
 .hpp p:hover{
     color: #000000;
+<<<<<<< HEAD
+=======
     transition: 0.3s;
+>>>>>>> d502bb66040a543e54cd3a64fae0551c76d6cab9
 }
 
 .jdl p{

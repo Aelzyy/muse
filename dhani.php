@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,300&display=swap" rel="stylesheet">
     <style>
         <?php
-        include "nike.css";
+        include "dhani.css";
         ?>
     </style>
 </head>

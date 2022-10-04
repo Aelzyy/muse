@@ -62,11 +62,11 @@
     </div>
 
     <div class="rck">
-        <a href=""><img src="Kiss.jpg" alt=""></a>
+        <a href="artisrock.php"><img src="Kiss.jpg" alt=""></a>
     </div>
 
     <div class="rckk">
-        <a href=""><p>Rock</p></a>
+        <a href="artisrock.php"><p>Rock</p></a>
     </div>
 
     <div class="hp">
@@ -86,7 +86,7 @@
     </div>
     
     <div class="gila">
-        <img src="gila.png" alt="">
+        <a href="tulus.php"><img src="gila.png" alt=""></a>
     </div>
 
     <div class="ggila">
@@ -98,7 +98,7 @@
     </div>
 
     <div class="salah">
-        <img src="slh.png" alt="">
+        <a href="raisa.php"><img src="slh.png" alt=""></a>
     </div>
 
     <div class="ssalah">
@@ -110,7 +110,7 @@
     </div>
 
     <div class="abu">
-        <img src="abu.png" alt="">
+        <a href="tulus.php"><img src="abu.png" alt=""></a>
     </div>
 
     <div class="aabu">
@@ -124,7 +124,7 @@
 
 <div class="ko">
     <div class="erd">
-        <img src="ard.png" alt="">
+        <a href="ardito.php"><img src="ard.png" alt=""></a>
     </div>
 
     <div class="eerd">

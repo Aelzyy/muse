@@ -74,7 +74,11 @@
     </div>
 
     <div class="hpp">
+<<<<<<< HEAD
+        <a href="hiphop.php"><p>HipHop</p></a>
+=======
         <a href=""><p>HipHop</p></a>
+>>>>>>> d502bb66040a543e54cd3a64fae0551c76d6cab9
     </div>
 
     <div class="jdl">

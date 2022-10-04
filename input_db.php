@@ -55,4 +55,6 @@ if(isset($_POST['submit'])){
         <input type="submit" name="simpan" value="simpan" class="btn btn-primary">
     </div>
 </form>
-<?php include 'footer.php'; ?>
+<br>
+<br>
+<?php include 'footer.php';?>

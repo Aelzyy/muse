@@ -35,7 +35,7 @@
     <div class="row row-cols-1 row-cols-md-3 g-4">
   <div class="col">
     <div class="card">
-      <img src="hah.png" alt="...">
+      <img src="rizkyfebian.png" alt="...">
       <div class="card-body">
         <a href="rizkyf.php"><h5 class="card-title">Rizky Febian</h5></a>
         <p class="card-text">Kelahiran 25 Februari 1998
@@ -54,7 +54,7 @@ AMI Award  Terbaik </p>
   </div>
   <div class="col">
     <div class="card">
-      <a href="judika.php"><img src="judika.png" alt="..."></a>
+    <img src="jdk2.png" alt="...">
       <div class="card-body">
         <a href="judika.php"><h5 class="card-title">Judika</h5></a>
         <p class="card-text">Kelahiran  31 agustus 1978
@@ -73,7 +73,7 @@ Indonesia Choice Award Male Singer</p>
   </div>
   <div class="col">
     <div class="card">
-      <img src="tulus.png" alt="...">
+      <img src="tulus3.png" alt="...">
       <div class="card-body">
         <a href="tulus.php"><h5 class="card-title">Tulus</h5></a>
         <p class="card-text">Kelahrian 20 Agustus 1987

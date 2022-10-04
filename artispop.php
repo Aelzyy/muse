@@ -37,7 +37,7 @@
     <div class="card">
       <img src="hah.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Rizky Febian</h5>
+        <a href="rizkyf.php"><h5 class="card-title">Rizky Febian</h5></a>
         <p class="card-text">Kelahiran 25 Februari 1998
 tinggi : 175cm
 Agama : Islam
@@ -54,9 +54,9 @@ AMI Award  Terbaik </p>
   </div>
   <div class="col">
     <div class="card">
-      <img src="judika.png" alt="...">
+      <a href="judika.php"><img src="judika.png" alt="..."></a>
       <div class="card-body">
-        <h5 class="card-title">Judika</h5>
+        <a href="judika.php"><h5 class="card-title">Judika</h5></a>
         <p class="card-text">Kelahiran  31 agustus 1978
 Tinggi : 173cm
 Agama : Islam
@@ -75,7 +75,7 @@ Indonesia Choice Award Male Singer</p>
     <div class="card">
       <img src="tulus.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Tulus</h5>
+        <a href="tulus.php"><h5 class="card-title">Tulus</h5></a>
         <p class="card-text">Kelahrian 20 Agustus 1987
 tinggi :186cm
 Agama : Islam

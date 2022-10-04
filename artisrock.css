@@ -85,3 +85,7 @@
 .card img:hover{
     filter: grayscale(0);
 }
+.card a h5{
+    list-style: none;
+    color: #000000;
+}

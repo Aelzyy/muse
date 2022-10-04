@@ -37,7 +37,7 @@
     <div class="card">
       <img src="RamenGvrl.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">RamenGvrl</h5>
+        <a href="ramenGvrl.php"><h5 class="card-title">RamenGvrl</h5></a>
         <p class="card-text">AMI Award 2018 trophy for the Best Collaborative Production Work category,AMI Award 2019 in the category of Best Rap/Hip-Hop Production Work.</p>
       </div>
       <div class="card-footer">
@@ -49,7 +49,7 @@
     <div class="card">
       <img src="saykoji.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Saykoji</h5>
+        <a href="saykoji.php"><h5 class="card-title">Saykoji</h5></a>
         <p class="card-text">Best albums 2015-2017,AMI Award for Best Vocal Hip Hop Artist,Biggest male solo award.</p>
       </div>
       <div class="card-footer">
@@ -61,7 +61,7 @@
     <div class="card">
       <img src="young.png" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Young Lex</h5>
+        <a href="younglex.php"><h5 class="card-title">Young Lex</h5></a>
         <p class="card-text">Never been nominated in ISMA 2K16 (Indonesian Social Media Awards)He has also been nominated for Indonesia's Most Popular Video from the Web TV Asia Awards 2016.</p>
       </div>
       <div class="card-footer">

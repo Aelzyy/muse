@@ -55,10 +55,10 @@
     </div>
 
     <div class="pop">
-        <img src="jazz.png" alt="">
+        <a href="artispop.php"><img src="jazz.png" alt=""></a>
     </div>
     <div class="poppp">
-        <a href=""><p> Pop</p></a>
+        <a href="artispop.php"><p> Pop</p></a>
     </div>
 
     <div class="rck">
@@ -74,11 +74,7 @@
     </div>
 
     <div class="hpp">
-<<<<<<< HEAD
         <a href="hiphop.php"><p>HipHop</p></a>
-=======
-        <a href=""><p>HipHop</p></a>
->>>>>>> d502bb66040a543e54cd3a64fae0551c76d6cab9
     </div>
 
     <div class="jdl">
@@ -136,7 +132,7 @@
     </div>
 
     <div class="say">
-        <img src="say.png" alt="">
+        <a href="saykoji.php"><img src="say.png" alt=""></a>
     </div>
 
     <div class="ssay">
@@ -148,7 +144,7 @@
     </div>
 
     <div class="yl">
-        <img src="yl.png" alt="">
+        <a href="younglex.php"><img src="yl.png" alt=""></a>
     </div>
 
     <div class="yyl">
